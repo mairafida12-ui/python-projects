@@ -1,0 +1,6 @@
+Student_Name,Math_Score,Science_Score,status,School_Year
+Alice,85.0,78.0,Pass,2023-2024
+Bob,0.0,42.0,Fail,2023-2024
+Charlie,45.0,0.0,Fail,2023-2024
+David,90.0,95.0,Pass,2023-2024
+Eva,30.0,20.0,Fail,2023-2024
